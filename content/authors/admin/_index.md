@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-My research applies ecological stoichiometry to scale the consequences of evolution directly from individuals to ecosystems. I work on topics ranging from intraspecific variation and plasticity, to the role of predators in ecosystems. Driven by my dual interests in individual variation and the ecosystem holism, I also write about ethical frameworks for conservation.
+My research applies ecological stoichiometry to scale the consequences of evolution directly from individuals to ecosystems. I work on topics ranging from intraspecific variation and plasticity, to the role of predators in ecosystems. Driven by my dual interests in individual variation and ecosystem holism, I also write about ethical frameworks for conservation.
 
 {{< icon name="arrow-circle-down" pack="fas" >}} Download my {{< staticref "media/Sommer_cv.pdf" "newtab" >}}cv{{< /staticref >}}.
