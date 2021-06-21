@@ -39,7 +39,7 @@ categories:
 ---
 The [Schmitz Lab at the Yale School of the Environment](http://schmitz.environment.yale.edu/) is recruiting a recent grad for a 1-year paid fellowship. The fellow will design an independent project on any topic relating to food webs, ecosystem function, evolutionary ecology, and climate change, as part of a larger NSF project. 
 
-The fellow would be based in New Haven CT, with a flexible start date of Sept 1 2022. The fellow will work with the PIs, postdoc, and doctoral students to develop an independent research project, with the goal of generating a first-authored manuscript and presenting at conferences. We will also provide professional development to prepare the fellow for next steps in a STEM career or graduate school.
+The fellow would be based in New Haven CT, with a flexible start date of Sept 1 2021. The fellow will work with the PIs, postdoc, and doctoral students to develop an independent research project, with the goal of generating a first-authored manuscript and presenting at conferences. We will also provide professional development to prepare the fellow for next steps in a STEM career or graduate school.
 
 The fellow will be funded by the [National Science Foundation](https://www.nsf.gov/pubs/2021/nsf21085/nsf21085.pdf), specifically for recent grads who want to pursue a STEM career, but were unable to have a research experience as an undergraduate student due to pandemic-related interruptions.
 
