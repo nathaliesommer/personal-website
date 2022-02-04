@@ -35,4 +35,4 @@ categories:
 - News
 ---
 
-Vermont-based WCAX Channel 3 interviewed me about our NSF-funded project on climate variability, phenotypic plasticity, and ecosystem function. Watch it out [here](https://www.wcax.com/2022/01/21/researchers-monitor-s-burlington-natural-area-climate-study/).
+Vermont-based WCAX Channel 3 interviewed me about our NSF-funded project on climate variability, phenotypic plasticity, and ecosystem function. Watch it [here](https://www.wcax.com/2022/01/21/researchers-monitor-s-burlington-natural-area-climate-study/).
