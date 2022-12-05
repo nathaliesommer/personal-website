@@ -56,7 +56,7 @@ projects: []
 ---
 An introductory tutorial for the SPRY workshop series at the Yale School of the Environment. This workshop motivates the application of SQLite and databases for research.
 
-Download the {{< staticref "S22_SQL-Databases.pdf" "newtab" >}}slides{{< /staticref >}}.
+Download the {{< staticref "F22_SQL-Databases.pdf" "newtab" >}}slides{{< /staticref >}}.
 
 Watch the [recording](https://yale.zoom.us/rec/share/B1T_vnOXaCRlrgRtJH_yP_2XtX_OqUUPW8qhDlltEcJdbpvFbj-W5atHpZc2oRw2.fynjkEWlV_1eMIG2?startTime=1670002389000).
 
