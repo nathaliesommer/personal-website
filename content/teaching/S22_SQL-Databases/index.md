@@ -1,7 +1,7 @@
 ---
 title: Introduction to SQL and Databases
 
-event: Intro workshop for using SQL and databases in research
+event: Workshop
 event_url: ""
 
 #location: 
