@@ -5,8 +5,8 @@ title: "An interest-based rights ethic for wildlife management and applications 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin 
-- Kristy Ferraro
+- admin
+- Ferraro
 
 # Author notes (optional)
 #author_notes:
@@ -30,15 +30,17 @@ publication: In *Conservation Science and Practice*
 # publication_short: In *ICW*
 
 abstract: The growing field of conservation and wild animal ethics has the potential to guide practitioners facing difficult management decisions. Drawing from previously established rights frameworks, we explore an applied ethic for wildlife managers and conservationists, outlining when there can be ethical justification and moral obligation to intervene with wildlife. To demonstrate the use of this ethical framework, we apply it specifically to the emerging field of behavioral training in wildlife management. We use a series of case studies to illuminate how ecological context is fundamental to ascertain when there is ethical justification for behavioral training under the framework, and conclude with practical considerations for implementation. Our work explains how a rights-based ethic emerges from both biological principles and fundamental philosophical concepts, and illustrates how it could serve as a useful guideline for wildlife management.
+# Summary. An optional shortened abstract.
+summary: We used metabolism as a unified, scalable response variable to assess the interaction between predator hunting mode and prey antipredator defenses.
 
 # Summary. An optional shortened abstract.
-summary: Exploring an applied ethic for wildlife managers and conservationists, outlining when there can be ethical justification and moral obligation to intervene with wildlife.
+summary: We developed an interest-based rights ethic for wild animals and demonstrated the practical use of the ethical framework in existing behavioral training practices.
 
 tags:
 - conservation ethics
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
