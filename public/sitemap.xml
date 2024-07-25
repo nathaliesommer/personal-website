@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tag/conservation-ethics/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tag/habitat-use/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/orrick_etal_2024_bc/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -31,9 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/publication/bertellotti_etal_2023_ee/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/conservation-ethics/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/ferraro_etal_2023_cb/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
