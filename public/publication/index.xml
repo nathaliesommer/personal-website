@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | N. R. Sommer</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>©Nathalie Sommer 2024</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5b137edab750718cfd6d38eb1d1fcf4f_43081_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Predator–prey interactions across hunting mode, spatial domain size, and habitat complexities</title>
+      <link>http://localhost:1313/publication/orrick_etal_2024_ecology/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/orrick_etal_2024_ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context matters when rewilding for climate change</title>
+      <link>http://localhost:1313/publication/burak_etal_2024_pan/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/burak_etal_2024_pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of habitat connectivity on grassland arthropod metacommunity structure: A field-based experimental test of theory</title>
+      <link>http://localhost:1313/publication/bertellotti_etal_2023_ee/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bertellotti_etal_2023_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prey metabolic responses to predators depend on predator hunting mode and prey antipredator defenses</title>
+      <link>http://localhost:1313/publication/sommer-alshwairikh_etal_2023_oikos/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sommer-alshwairikh_etal_2023_oikos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An interest-based rights ethic for wildlife management and applications to behavioral training</title>
+      <link>http://localhost:1313/publication/sommerferraro_2022_csp/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sommerferraro_2022_csp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges facing cross-disciplinary collaboration in conservation ethics</title>
+      <link>http://localhost:1313/publication/ferraro_etal_2021_csp/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ferraro_etal_2021_csp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differences in prey personality mediate trophic cascades</title>
+      <link>http://localhost:1313/publication/sommerschmitz_2020_ee/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sommerschmitz_2020_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woodlice change the habitat use of spiders in a different food chain</title>
+      <link>http://localhost:1313/publication/guilianokarr_etal_2020_peerj/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/guilianokarr_etal_2020_peerj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedbacks between nutrient enrichment and geomorphology alter bottom-up control on food webs</title>
+      <link>http://localhost:1313/publication/nelson_etal_2019_ecosystems/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nelson_etal_2019_ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen uptake and allocation estimates for Spartina alterniflora and Distichlis spicata</title>
+      <link>http://localhost:1313/publication/hill_etal_2018_jembe&#43;dib/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hill_etal_2018_jembe&#43;dib/</guid>
+      <description>&lt;p&gt;A data article in &lt;a href=&#34;https://doi.org/10.1016/j.dib.2018.09.133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data in Brief&lt;/a&gt; accompanies this manuscript. Data and source code are available on CRAN within R Package NitrogenUptake2016.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Red‐backed fairywrens adjust habitat use in response to dry season fires</title>
+      <link>http://localhost:1313/publication/sommer_etal_2018_australecol/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sommer_etal_2018_australecol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intraspecific Variation | N. R. Sommer</title>
+    <link>http://localhost:1313/tag/intraspecific-variation/</link>
+      <atom:link href="http://localhost:1313/tag/intraspecific-variation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intraspecific Variation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>©Nathalie Sommer 2024</copyright><lastBuildDate>Sun, 25 Apr 2021 10:19:41 -0400</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5b137edab750718cfd6d38eb1d1fcf4f_43081_512x512_fill_lanczos_center_3.png</url>
+      <title>Intraspecific Variation</title>
+      <link>http://localhost:1313/tag/intraspecific-variation/</link>
+    </image>
+    
+    <item>
+      <title>Animal behavior in ecological communities</title>
+      <link>http://localhost:1313/project/behavior/</link>
+      <pubDate>Sun, 25 Apr 2021 10:19:41 -0400</pubDate>
+      <guid>http://localhost:1313/project/behavior/</guid>
+      <description>&lt;p&gt;I am interested in the myriad ways animal behavior manifests in ecological communities, from flexible habitat use under environmental stressors to connecting seemingly distinct systems (e.g. plant-based vs detrital-based food webs). Animal behavior drives much of my thinking about eco-evolutionary feedbacks in ecosystems.&lt;/p&gt;
+&lt;p&gt;For relevant pubs, click on the tags below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intraspecific variation and ecological stoichiometry</title>
+      <link>http://localhost:1313/project/variation-and-stoich/</link>
+      <pubDate>Sun, 25 Apr 2021 10:19:41 -0400</pubDate>
+      <guid>http://localhost:1313/project/variation-and-stoich/</guid>
+      <description>&lt;p&gt;Ecological stoichiometry traces elements and their ratios through organisms, populations, communities, and ecosystems to explain mechanisms underpinning ecological interactions. I use a stoichiometric approach to understand how &lt;em&gt;evolutionary processes&lt;/em&gt; might scale directly to ecosystem-level elemental flows. This approach requires understanding how much variation there is among individuals of a population, the strength of stoichiometric homeostasis across populations, and how various stressors&amp;ndash;including predators, resource availability, and temperature&amp;ndash;affect the stoichiometric phenotype. The goal of this work is a conceptual integration of evolutionary and ecosystem processes.&lt;/p&gt;
+&lt;p&gt;For relevant pubs, click on the tags below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differences in prey personality mediate trophic cascades</title>
+      <link>http://localhost:1313/publication/sommerschmitz_2020_ee/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sommerschmitz_2020_ee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

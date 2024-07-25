@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Habitat Use | N. R. Sommer</title>
+    <link>http://localhost:1313/tag/habitat-use/</link>
+      <atom:link href="http://localhost:1313/tag/habitat-use/index.xml" rel="self" type="application/rss+xml" />
+    <description>Habitat Use</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>©Nathalie Sommer 2024</copyright><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5b137edab750718cfd6d38eb1d1fcf4f_43081_512x512_fill_lanczos_center_3.png</url>
+      <title>Habitat Use</title>
+      <link>http://localhost:1313/tag/habitat-use/</link>
+    </image>
+    
+    <item>
+      <title>Context matters when rewilding for climate change</title>
+      <link>http://localhost:1313/publication/burak_etal_2024-pan/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/burak_etal_2024-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of habitat connectivity on grassland arthropod metacommunity structure: A field-based experimental test of theory</title>
+      <link>http://localhost:1313/publication/bertellotti_etal_2023_ee/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bertellotti_etal_2023_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animal behavior in ecological communities</title>
+      <link>http://localhost:1313/project/behavior/</link>
+      <pubDate>Sun, 25 Apr 2021 10:19:41 -0400</pubDate>
+      <guid>http://localhost:1313/project/behavior/</guid>
+      <description>&lt;p&gt;I am interested in the myriad ways animal behavior manifests in ecological communities, from flexible habitat use under environmental stressors to connecting seemingly distinct systems (e.g. plant-based vs detrital-based food webs). Animal behavior drives much of my thinking about eco-evolutionary feedbacks in ecosystems.&lt;/p&gt;
+&lt;p&gt;For relevant pubs, click on the tags below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Woodlice change the habitat use of spiders in a different food chain</title>
+      <link>http://localhost:1313/publication/guilianokarr_etal_2020_peerj/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/guilianokarr_etal_2020_peerj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedbacks between nutrient enrichment and geomorphology alter bottom-up control on food webs</title>
+      <link>http://localhost:1313/publication/nelson_etal_2019_ecosystems/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nelson_etal_2019_ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red‐backed fairywrens adjust habitat use in response to dry season fires</title>
+      <link>http://localhost:1313/publication/sommer_etal_2018_australecol/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sommer_etal_2018_australecol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

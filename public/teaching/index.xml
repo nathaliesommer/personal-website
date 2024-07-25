@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | N. R. Sommer</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>©Nathalie Sommer 2024</copyright><lastBuildDate>Fri, 02 Dec 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5b137edab750718cfd6d38eb1d1fcf4f_43081_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to SQL and Databases</title>
+      <link>http://localhost:1313/teaching/s22_sql-databases/</link>
+      <pubDate>Fri, 02 Dec 2022 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/s22_sql-databases/</guid>
+      <description>&lt;p&gt;An introductory tutorial for the SPRY workshop series at the Yale School of the Environment. This workshop motivates the application of SQLite and databases for research.&lt;/p&gt;
+&lt;p&gt;Download the 
+
+&lt;a href=&#34;http://localhost:1313/F22_SQL-Databases.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a href=&#34;https://yale.zoom.us/rec/share/B1T_vnOXaCRlrgRtJH_yP_2XtX_OqUUPW8qhDlltEcJdbpvFbj-W5atHpZc2oRw2.fynjkEWlV_1eMIG2?startTime=1670002389000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recording&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data viz with GitHub workflow</title>
+      <link>http://localhost:1313/teaching/s21_dataviz-github/</link>
+      <pubDate>Mon, 12 Apr 2021 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/s21_dataviz-github/</guid>
+      <description>&lt;p&gt;A tutorial for master&amp;rsquo;s students in Environmental Data Visualization and Communication (Spring 2021). This tutorial introduces students to the tidyverse with data cleaning and ggplot, alongside the basics of a GitHub + RProj workflow. The base script builds off of Kieran Healy&amp;rsquo;s stellar (and open-source) Data Visualization &lt;a href=&#34;https://socviz.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;book&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Click here for the &lt;a href=&#34;https://github.com/nathaliesommer/ENV603-DataViz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Philosophy and ethics in science</title>
+      <link>http://localhost:1313/teaching/f20_science-philosophy-ethics/</link>
+      <pubDate>Thu, 19 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/f20_science-philosophy-ethics/</guid>
+      <description>&lt;p&gt;This lecture and discussion was delivered online in Fall 2020 to introduce master&amp;rsquo;s students to ethics, philosophy, and the philosophy of science. Recommended readings can be found on the last slide.&lt;/p&gt;
+&lt;p&gt;Download the 
+
+&lt;a href=&#34;http://localhost:1313/F20_Guest-Lecture_Philosophy-Ethics.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data management and analysis workflow</title>
+      <link>http://localhost:1313/teaching/f20_data-management/</link>
+      <pubDate>Tue, 13 Oct 2020 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/f20_data-management/</guid>
+      <description>&lt;p&gt;This workshop was delivered in a hybrid format in Fall 2020 as part of a series on skill-building for MESc students in YSE 550a Natural Science Research Methods. The workshop assumes no prior knowledge of data science or reproducibility, and introduces students to RProjects and GitHub.&lt;/p&gt;
+&lt;p&gt;Download the 
+
+&lt;a href=&#34;http://localhost:1313/F20_Workshop_Data-management.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Problems of small populations</title>
+      <link>http://localhost:1313/teaching/f19_conbio-smallpops/</link>
+      <pubDate>Sun, 10 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/f19_conbio-smallpops/</guid>
+      <description>&lt;p&gt;An introduction to evolution and the problems of small populations for undergrads in Conservation Biology (Fall 2019). Includes a hands-on activity and a discussion about the wolves of Isle Royale.&lt;/p&gt;
+&lt;p&gt;Download the 
+
+&lt;a href=&#34;http://localhost:1313/F19_Small-pops.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting started with GitHub</title>
+      <link>http://localhost:1313/teaching/f19_github/</link>
+      <pubDate>Fri, 25 Oct 2019 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/f19_github/</guid>
+      <description>&lt;p&gt;Workshop for master&amp;rsquo;s students in Natural Science Research Methods (Fall 2019). A short overview of GitHub and tutorial.&lt;/p&gt;
+&lt;p&gt;Download the 
+
+&lt;a href=&#34;http://localhost:1313/F19_Workshop_GitHub.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game theory and evolutionary stable strategies</title>
+      <link>http://localhost:1313/teaching/s16_ess-game-theory/</link>
+      <pubDate>Sat, 26 Mar 2016 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/s16_ess-game-theory/</guid>
+      <description>&lt;p&gt;A mini guest lecture and in-class activity on evolutionary stable strategies (ESS) and game theory. The activity teaches the theory of social cooperation via an iterative Prisoner&amp;rsquo;s Dillemna. This was delivered during my first TA position for BIOL 312 Evolution of Organisms at the College of William &amp;amp; Mary.&lt;/p&gt;
+&lt;p&gt;Download the 
+
+&lt;a href=&#34;http://localhost:1313/S16_Guest-Lecture_ESS-Game-Theory.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

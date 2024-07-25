@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | N. R. Sommer</title>
+    <link>http://localhost:1313/category/news/</link>
+      <atom:link href="http://localhost:1313/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>©Nathalie Sommer 2024</copyright><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5b137edab750718cfd6d38eb1d1fcf4f_43081_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/category/news/</link>
+    </image>
+    
+    <item>
+      <title>Interview with WCAX Channel 3 News</title>
+      <link>http://localhost:1313/post/wcax-interview/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wcax-interview/</guid>
+      <description>&lt;p&gt;Vermont-based WCAX Channel 3 interviewed me about our NSF-funded project on climate variability, phenotypic plasticity, and ecosystem function. Watch it &lt;a href=&#34;https://www.wcax.com/2022/01/21/researchers-monitor-s-burlington-natural-area-climate-study/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Come work with us!</title>
+      <link>http://localhost:1313/post/postbac-advert-2021/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/postbac-advert-2021/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://schmitz.environment.yale.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schmitz Lab at the Yale School of the Environment&lt;/a&gt; is recruiting a recent grad for a 1-year paid fellowship. The fellow will design an independent project on any topic relating to food webs, ecosystem function, evolutionary ecology, and climate change, as part of a larger NSF project.&lt;/p&gt;
+&lt;p&gt;The fellow would be based in New Haven CT, with a flexible start date of Sept 1 2021. The fellow will work with the PIs, postdoc, and doctoral students to develop an independent research project, with the goal of generating a first-authored manuscript and presenting at conferences. We will also provide professional development to prepare the fellow for next steps in a STEM career or graduate school.&lt;/p&gt;
+&lt;p&gt;The fellow will be funded by the &lt;a href=&#34;https://www.nsf.gov/pubs/2021/nsf21085/nsf21085.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Science Foundation&lt;/a&gt;, specifically for recent grads who want to pursue a STEM career, but were unable to have a research experience as an undergraduate student due to pandemic-related interruptions.&lt;/p&gt;
+&lt;p&gt;Eligibility:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;US citizen or permanent resident&lt;/li&gt;
+&lt;li&gt;Completed a bachelor&amp;rsquo;s degree but not currently enrolled in another degree program&lt;/li&gt;
+&lt;li&gt;Priority placed on students from underrepresented groups, veterans, or those who have not participated in any kind of research experience.&lt;/li&gt;
+&lt;li&gt;Some level of comfort around spiders and ticks (or willingness to be uncomfortable) is preferred.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Interested folks should email &lt;a href=&#34;mailto:nathalie.sommer@yale.edu&#34;&gt;nathalie.sommer@yale.edu&lt;/a&gt; with a copy of their cv and brief biosketch (1-paragraph max). Applications for the NSF REPS program are due on July 2nd, so please get in touch as soon as possible. Consideration of candidates will begin June 25th.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interview with the Yale Law, Ethics, and Animals Program (LEAP)</title>
+      <link>http://localhost:1313/post/leap-interview/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/leap-interview/</guid>
+      <description>&lt;p&gt;The Yale Law, Ethics, and Animals Program (LEAP) interviewed me about my 2020 paper in &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6648&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecology &amp;amp; Evolution&lt;/a&gt; and upcoming conservation ethics projects. You can read the interview &lt;a href=&#34;https://law.yale.edu/yls-today/news/qa-nathalie-sommer-how-differences-grasshopper-personality-affect-ecosystems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
