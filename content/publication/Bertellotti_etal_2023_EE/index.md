@@ -11,8 +11,8 @@ authors:
 - Matthew McCary
 
 # Author notes (optional)
-#author_notes:
-#- "Equal contribution"
+author_notes:
+- "Undergrad mentee"
 #- "Equal contribution"
 
 date: "2023-11-01T00:00:00Z"

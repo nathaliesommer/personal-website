@@ -2,32 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tag/habitat-use/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/orrick_etal_2024_ecology/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/predators/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tag/animal-behavior/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/burak_etal_2024-pan/</loc>
+    <loc>http://localhost:1313/publication/burak_etal_2024_pan/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/habitat-use/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/predator-prey-interactions/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tag/ecosystem-function/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/bertellotti_etal_2023_ee/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/predators/</loc>
-    <lastmod>2023-02-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tag/conservation-ethics/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/ferraro_etal_2023_cb/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/sommer-alshwairikh_etal_2023_oikos/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
@@ -59,9 +68,6 @@
     <loc>http://localhost:1313/tag/phd-life/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/ecosystem-function/</loc>
-    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/wcax-interview/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,9 +78,6 @@
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/sommerferraro_2022_csp/</loc>
-    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/conservation-ethics/</loc>
     <lastmod>2021-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/applications/</loc>
